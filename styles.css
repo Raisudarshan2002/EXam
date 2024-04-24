@@ -23,7 +23,7 @@ nav ul {
 }
 
 nav ul li {
-    display: inline;
+    display: inline;/** Inlinning the nav bars**/
     margin-right: 20px;
 }
 
@@ -72,7 +72,7 @@ footer ul li a:hover {
 footer p{
     text-align: center;
 }
-aside{
+aside{/*a quoatation in the aside element*/
     float: right;
     padding: 40px;
     background-color: #ffeb3b;
